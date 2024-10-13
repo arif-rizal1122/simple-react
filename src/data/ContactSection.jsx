@@ -18,6 +18,6 @@ export const contactSection = [
     {
         id: '4',
         title: '<h3>Social</h3>',
-        description: '<p><b>YouTube: </b>Programming di RumahRafif</p>'
+        description: '<p><b>YouTube: </b>ArifRizal1122Official</p>'
     }
 ]
